@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-st.title('hello, streamlit')
+st.title('hello,world')
 st.write('this is simple streamlit application')
 
 st.write('*ini contoh huruf miring*')
